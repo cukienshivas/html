@@ -1,0 +1,46 @@
+title{
+    color: aquamarine;
+    text-align: center;
+
+    border: 1.5cm solid rebeccapurple;
+    border-style: double;
+    background-color: bisque;
+    font-size: 3cm;
+    font-style: italic;
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    position: absolute;
+    width:400px;
+    fill:none
+}
+h{
+    font-size: 50px;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    text-align: left;
+    display: inline;
+    
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    align-items:top;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 20px; /* Adjust margin as needed */
+}
+
+h2 {
+    max-width: 50%; /* Adjust the width as needed */
+}
+img{
+    position: bottom;
+    left:5cm;
+}
